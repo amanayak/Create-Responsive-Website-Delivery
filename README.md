@@ -1,6 +1,6 @@
-# Responsive Website Delivery 🚚
+# Create Responsive Website Delivery 🚚
 ## [Live Preview](https://amanayak.github.io/Create-Responsive-Website-Delivery/)
-### Responsive Website Delivery
+### Create Responsive Website Delivery
 
 - Website Delivery, using HTML, Sass and JavaScript.
 - Includes a dark and light mode.
